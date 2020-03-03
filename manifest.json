@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Custom ENT",
+  "version": "0.1",
+
+  "description": "Modifiez la couleur de votre ENT !",
+  "icons": {
+    "48": "icons/48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.mon-ent-occitanie.fr/*"],
+      "js": ["custom-ent.js"]
+    }
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/32.png",
+    "default_title": "Custom ENT",
+    "default_popup": "popup/choose_action.html"
+  }
+}
