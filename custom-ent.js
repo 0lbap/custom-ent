@@ -1,7 +1,7 @@
 var color = "#1a8547";
 var lightColor = "#4fb078";
 var darkColor = "#186339";
-var bgColor = "#efffef"; //e1ffe1
+var bgColor = "#efffef";
 
 function refresh() {
   document.getElementsByClassName('js')[0].style.backgroundColor = bgColor;
