@@ -10,7 +10,7 @@ Version : 0.1 (BÊTA)
 4. Sélectionnez le fichier `manifest.json` dans le dossier de l'extension (`custom-ent/`) préalablement téléchargé.
 5. Cliquez sur <kbd>Ouvrir</kbd>.
 
-> L'extension est activée jusqu'à la fermeture de Firefox. Pour la désactiver manuellement, retournez dans `about:debugging#/runtime/this-firefox` et cliquez sur <kbd>Supprimer</kbd> dans le menu de l'extension pour désactiver.
+> L'extension est activée jusqu'à la fermeture de Firefox. Pour la désactiver manuellement, retournez dans `about:debugging#/runtime/this-firefox` et cliquez sur <kbd>Supprimer</kbd> dans le menu de l'extension.
 
 ### Changer les couleurs :
 
