@@ -4,10 +4,11 @@ Extension Firefox pour changer la couleur de l'ENT.
 Version : 0.1 (BÊTA)
 
 ### Installation de l'extension sur Firefox :
-1. Dans la barre d'adresse, tapez sur `about:debugging#/runtime/this-firefox`.
-2. Cliquez sur <kbd>Charger un module complémentaire temporaire...</kbd>.
-3. Sélectionnez le fichier `manifest.json` dans le dossier de l'extension (`custom-ent/`) préalablement téléchargé.
-4. Cliquez sur <kbd>Ouvrir</kbd>.
+1. Téléchargez ou clonez ce repository.
+2. Dans la barre d'adresse, tapez sur `about:debugging#/runtime/this-firefox`.
+3. Cliquez sur <kbd>Charger un module complémentaire temporaire...</kbd>.
+4. Sélectionnez le fichier `manifest.json` dans le dossier de l'extension (`custom-ent/`) préalablement téléchargé.
+5. Cliquez sur <kbd>Ouvrir</kbd>.
 
 > L'extension est activée jusqu'à la fermeture de Firefox. Pour la désactiver manuellement, retournez dans `about:debugging#/runtime/this-firefox` et cliquez sur <kbd>Supprimer</kbd> pour désactiver.
 
