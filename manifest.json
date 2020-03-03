@@ -17,11 +17,5 @@
       "matches": ["*://*.mon-ent-occitanie.fr/*"],
       "js": ["custom-ent.js"]
     }
-  ],
-
-  "browser_action": {
-    "default_icon": "icons/32.png",
-    "default_title": "Custom ENT",
-    "default_popup": "popup/choose_action.html"
-  }
+  ]
 }
