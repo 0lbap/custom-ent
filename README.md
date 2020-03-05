@@ -29,5 +29,5 @@ Une fois l'extension activée, votre ENT sera vert. Vous pouvez changer la coule
     - `darkColor` : la **couleur foncée** (couleur du fond du bouton MENU et du bouton sélectionné dans la barre à gauche)
     - `bgColor` : la **couleur du fond** de la page
 
-    Pour changer la couleur d'une variable, remplacez le code hexadécimal `"#xxxxxx"` par le nouveau. Pour déterminer le code hexadécimal d'une couleur, tapez `colorpicker` sur Google et copiez le code correspondant à votre couleur.
+    Pour changer la couleur d'une variable, remplacez le code hexadécimal `"#xxxxxx"` par le nouveau. Pour déterminer le code hexadécimal d'une couleur, tapez `colorpicker` sur Google et copiez le code **HEX** correspondant à votre couleur.
 3. Une fois modifié, enregistrez le fichier, puis si votre extension est déjà en cours d'exécution, allez sur `about:debugging#/runtime/this-firefox` puis cliquez sur <kbd>Actualiser</kbd> dans le menu de l'extension.
