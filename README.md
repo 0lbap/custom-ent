@@ -1,9 +1,7 @@
-# custom-ent
+# ![Icon](https://raw.githubusercontent.com/0lbap/custom-ent/master/icons/48.png) custom-ent
 Extension Firefox pour changer la couleur de l'ENT.
 
 Version : 0.1 (BÊTA)
-
-![Icon](https://raw.githubusercontent.com/0lbap/custom-ent/master/icons/48.png)
 
 ## Installation de l'extension sur Firefox :
 
