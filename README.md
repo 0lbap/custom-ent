@@ -3,6 +3,8 @@ Extension Firefox pour changer la couleur de l'ENT.
 
 Version : 0.1 (BÊTA)
 
+[Default](#){.btn .btn-default}
+
 ## Installation de l'extension sur Firefox :
 
 1. Téléchargez ce repository, dézippez-le puis renommez-le `custom-ent`.
