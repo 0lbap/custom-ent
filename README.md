@@ -14,9 +14,12 @@ Version : 0.1 (BÊTA)
 
 ### Changer les couleurs :
 
-Une fois l'extension installée, votre ENT sera vert. Vous pouvez changer la couleur en suivant ces étapes :
+Une fois l'extension activée, votre ENT sera vert. Vous pouvez changer la couleur en suivant ces étapes :
 1. Dans le dossier de l'extension (`custom-ent/`), ouvrez `custom-ent.js` avec un éditeur de texte.
 2. Les 4 premières variables représentent les couleurs. On a :
+    ```Javascript
+    var color = "";
+    ```
     - `color` : la couleur de base (couleur du fond des barres à gauche et en haut, et couleur des liens)
     - `lightColor` : la couleur claire (couleur des lignes séparant les boutons de la barre à gauche)
     - `darkColor` : la couleur foncée (couleur du fond du bouton MENU et du bouton sélectionné dans la barre à gauche)
