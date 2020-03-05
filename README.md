@@ -3,7 +3,7 @@ Extension Firefox pour changer la couleur de l'ENT.
 
 Version : 0.1 (BÊTA)
 
-![Icon](d)
+![Icon](https://raw.githubusercontent.com/0lbap/custom-ent/master/icons/48.png)
 
 ## Installation de l'extension sur Firefox :
 
