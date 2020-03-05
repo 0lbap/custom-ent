@@ -24,7 +24,7 @@ Une fois l'extension activée, votre ENT sera vert. Vous pouvez changer la coule
     var darkColor = "#186339";
     var bgColor = "#efffef";
     ```
-    - `color` : la couleur de base (couleur du fond des barres à gauche et en haut, et couleur des liens)
+    - `color` : la **couleur de base** (couleur du fond des barres à gauche et en haut, et couleur des liens)
     - `lightColor` : la **couleur claire** (couleur des lignes séparant les boutons de la barre à gauche)
     - `darkColor` : la **couleur foncée** (couleur du fond du bouton MENU et du bouton sélectionné dans la barre à gauche)
     - `bgColor` : la **couleur du fond** de la page
