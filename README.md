@@ -1,7 +1,7 @@
 # custom-ent
 ![Icon](https://raw.githubusercontent.com/0lbap/custom-ent/master/icons/48.png)
 
-Extension Firefox pour changer la couleur de l'ENT.
+Extension Firefox pour changer la couleur de l'ENT Occitanie.
 
 Version : 0.1 (BÊTA)
 
